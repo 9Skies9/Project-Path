@@ -1,6 +1,6 @@
 ## 📚 Resource Archive
-This folder is a  collection of quality online resources, organized by subject or topic.
-Since different learning paths may share overlapping resources, this folder acts as a central repository of trusted materials.
+- This folder is a  collection of quality online resources, organized by subject or topic.
+- Since different learning paths may share overlapping resources, this folder acts as a central repository of trusted materials.
 
 ### 📌 Guidelines
 
