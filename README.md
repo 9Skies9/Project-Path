@@ -1,15 +1,28 @@
-# Project-Path
+# 🛣️ Project-Path 🛣️
 > Clear learning roadmaps for the age of information overload
 
-## Envision
+## The Vision
+**Problem**: Learning online feels like wandering through a library with no map, too many resources, too little direction.  
+**Solution**: Structured paths that guide you from "beginner" to "competent" using the web's best (ones that we can find) free resources.
 
-Example
-User Question: I want to get into the field of AI, and understand what ChatGPT is all about.
-AI Response: Sure! Using the data from the roadmaps collection, this is a planned out roadmap for what you'll need to learn:
+Imagine asking *"How do I learn AI?"* and receiving:
 
-
-
-
+```
+[AI Learning Path]
+├── [1. Math Foundations]
+│   ├── [XXX's class on linear algebra]
+│   └── [XXX's website about probability theory]
+│   └── [...etc]
+├── [2. Basic Deep Learning]
+│   ├── [YYY's blog posts about neural network fundamentals]
+│   └── [YYY's online book about how to use ml frameworks]
+│   └── [...etc]
+└── [3. Specializations]
+    ├── Computer Vision: [AAA's interactive demo]  
+    ├── NLP: [BBB's videos]  
+    └── Reinforcement Learning: [CCC's paper book]
+    └── Others: [...etc]
+```
 
 Essentially, "Project Path" is going to be a big "skill tree" with collections of "resources" from the internet, though instead of a simple archieve, we would plan out "Paths" to guide people's learning step after step. 
 
@@ -21,13 +34,12 @@ Of course, I only know so much about so many things, and only will be able to co
 
 
 
------------------------------
+
 ## A Quick Note
 I'm new to GitHub and making any visual, web content. This is currently just a **rough idea** with minimal implementation, all feedback is welcome! 
 
 ## Current Status
 - Very early stage (just organizing ideas)  
 - Next steps: Build example paths, create contribution guidelines
------------------------------
 
 
