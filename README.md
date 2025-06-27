@@ -1,5 +1,6 @@
 # 🛣️ Project-Path 🛣️
 **Clear learning roadmaps for the age of information overload**
+> Inspired by [Awesome](https://github.com/sindresorhus/awesome) and [Developer Roadmaps](https://roadmap.sh).
 
 ## Why It Matters 🧭
 - I learned AI entirely through free content made by generous people online. And I know other fields have the same kind of hidden gems — just waiting to be found, and linked into a clear path.
